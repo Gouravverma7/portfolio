@@ -145,7 +145,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: gouravverma2907@gmail.com
-- **Phone**: +91-7879558651
 - **Location**: Indore, (M.P.), India
 - **GitHub**: [Gouravverma7](https://github.com/Gouravverma7/)
 - **LinkedIn**: [gourav-verma2907](https://www.linkedin.com/in/gourav-verma2907/)
