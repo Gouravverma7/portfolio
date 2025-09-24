@@ -189,8 +189,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Gourav Verma**
 - Email: gouravverma2901@gmail.com
-- Phone: +91-7879558651
-- Location: Indore, (M.P.), India
 - LinkedIn: [gourav-verma2907](https://www.linkedin.com/in/gourav-verma2907/)
 - GitHub: [Gouravverma7](https://github.com/Gouravverma7/)
 - Twitter: [@GouravVerma29](https://x.com/GouravVerma29?t=9Bwdraj7IPG6CqyPvQ0MNQ&s=09)
