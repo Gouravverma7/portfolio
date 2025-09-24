@@ -9,14 +9,14 @@ const projects = [
   name: 'College Inquiry Chatbot',
   year : 'APRIL - 2024',
   align : 'right',
-  image: '../../public/images/College_Inquiry_chatbot.png',
+  image: './images/College_Inquiry_chatbot.png',
   link: 'https://github.com/Gouravverma7/College_Inquiry_Chatbot',
 },
   {
   name: 'Placement Management System',
   year : 'JULY - 2024',
   align : 'right',
-  image: '../../public/images/Placement_management_System.png',
+  image: './images/Placement_management_System.png',
   link: 'https://github.com/Gouravverma7/Placement_Management',
 },
 // {

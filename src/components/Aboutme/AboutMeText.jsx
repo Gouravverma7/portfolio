@@ -35,10 +35,10 @@ const AboutMeText = () => {
       </p>
       <div className="flex flex-row gap-6">
       <button className="border-4 border-orange-500 rounded-full py-2 px-6 text-xl flex items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center text-white hover:text-cyan">
-        <a href="https://github.com/Gouravverma7/">My Projects </a>
+        <a href="https://github.com/Gouravverma7/" target="_blank">My Projects </a>
       </button>
             <button className="border-4 border-orange-500 rounded-full py-2 px-6 text-xl flex items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center text-white hover:text-cyan">
-        <a href="./public/pdf/Gourav_Verma_Resume.pdf">Resume</a>
+        <a href="./pdf/Gourav_Verma_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
       </button>
       </div>
     </div>

@@ -21,7 +21,7 @@ import {fadeIn} from '../../frameMotion/varients';
 
 const AboutMeMain = () => {
   return (
-    <div id="about" className="flex flex-col-reverse md:flex-row items-center md:items-start justify-between gap-12 md:gap-20 px-6 md:px-14 max-w-[1200px] max-h-[0px] mx-auto mt-16 md:mt-24"> 
+    <div id="about" className="flex flex-col-reverse md:flex-row items-center md:items-start justify-between gap-12 md:gap-20 px-6 md:px-14 max-w-[1200px] h-[10px] mx-auto mt-16 md:mt-24"> 
     {/* max-h-[0px] */}
       <motion.div variants={fadeIn('right',0.2)} initial='hidden' whileInView='show' viewport={{once:false, amount:0.7}}>
         <AboutMeText />
